@@ -1,11 +1,12 @@
 #### Otus. Курс "JavaScript Developer. Basic".
+
 https://otus.ru/lessons/javascript-basic/?int_source=courses_catalog&int_term=programming
 
 ---
 
 [![PR Sanity Check](https://github.com/Yakubovskaya/otus-hw6-weather-forecast/actions/workflows/sanity-check.yml/badge.svg?branch=Hometask6)](https://github.com/Yakubovskaya/otus-hw6-weather-forecast/actions/workflows/sanity-check.yml)
 
-### Three-column Layout
+## Three-column Layout
 
 Создание сложной страницы с использованием семантических элементов html5, стилизация ее в 2/3 - колоночный макет
 
